@@ -1,0 +1,23 @@
+# 模型权重（2.6 GB，不上传）
+*.pt
+*.pth
+*.ckpt
+checkpoint/
+runs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+
+# 日志 / 临时
+*.log
+nohup.out
+*.tmp
+*.out
+
+# 数据（大文件，需重跑管线生成）
+binding_site_singlechain/data/train_pdbs/
+binding_site_singlechain/data/pdb/
+final_classfication/data/

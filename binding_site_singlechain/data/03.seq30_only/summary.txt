@@ -1,0 +1,6 @@
+训练代表链输入: 4722
+train-train CD-HIT 30% 后: 2403
+test-train seq30% 剔除: 386
+最终训练集: 2017
+  DBP: 901
+  RBP: 1136
